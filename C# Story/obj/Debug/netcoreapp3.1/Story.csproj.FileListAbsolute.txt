@@ -1,0 +1,13 @@
+D:\Irtaza\Learning C#\C# Story\bin\Debug\netcoreapp3.1\Story.exe
+D:\Irtaza\Learning C#\C# Story\bin\Debug\netcoreapp3.1\Story.deps.json
+D:\Irtaza\Learning C#\C# Story\bin\Debug\netcoreapp3.1\Story.runtimeconfig.json
+D:\Irtaza\Learning C#\C# Story\bin\Debug\netcoreapp3.1\Story.runtimeconfig.dev.json
+D:\Irtaza\Learning C#\C# Story\bin\Debug\netcoreapp3.1\Story.dll
+D:\Irtaza\Learning C#\C# Story\bin\Debug\netcoreapp3.1\Story.pdb
+D:\Irtaza\Learning C#\C# Story\obj\Debug\netcoreapp3.1\Story.csprojAssemblyReference.cache
+D:\Irtaza\Learning C#\C# Story\obj\Debug\netcoreapp3.1\Story.AssemblyInfoInputs.cache
+D:\Irtaza\Learning C#\C# Story\obj\Debug\netcoreapp3.1\Story.AssemblyInfo.cs
+D:\Irtaza\Learning C#\C# Story\obj\Debug\netcoreapp3.1\Story.csproj.CoreCompileInputs.cache
+D:\Irtaza\Learning C#\C# Story\obj\Debug\netcoreapp3.1\Story.dll
+D:\Irtaza\Learning C#\C# Story\obj\Debug\netcoreapp3.1\Story.pdb
+D:\Irtaza\Learning C#\C# Story\obj\Debug\netcoreapp3.1\Story.genruntimeconfig.cache
